@@ -1,8 +1,6 @@
 import numpy as np
 
-
 ##----##----##----##----##----##----##----##----##----##
-
 
 def make_matrix_A(data_x):
     matrix = [[0, 0], [0, 0]]
